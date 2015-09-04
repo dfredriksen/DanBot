@@ -8,5 +8,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-business-cat"
+  "hubot-business-cat",
+  "hubot-standup-alarm",
+  "hubot-plusplus"
 ]
