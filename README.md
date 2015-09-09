@@ -12,6 +12,10 @@ has, etc!
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
 
+### tobot.sh
+
+tobot.sh is a shell file for starting ToBot on its home server. This file is not checked in. Any sensitive environment variables such as secret keys or passwords should be stored there.
+
 ### Running ToBot Locally
 
 You can test your hubot by running the following, however some plugins will not
