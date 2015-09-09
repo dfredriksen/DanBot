@@ -11,5 +11,6 @@
   "hubot-business-cat",
   "hubot-standup-alarm",
   "hubot-plusplus",
-  "hubot-trello"
+  "hubot-trello",
+  "hubot-jenkins"
 ]
