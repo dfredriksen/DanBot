@@ -12,5 +12,6 @@
   "hubot-standup-alarm",
   "hubot-plusplus",
   "hubot-trello",
-  "hubot-jenkins"
+  "hubot-jenkins",
+  "hubot-devopsreactions"
 ]
