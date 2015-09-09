@@ -4,8 +4,5 @@ set -e
 
 npm install
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
-export HUBOT_TRELLO_KEY=7f2b62c650f34abc20a29bc1835a5408
-export HUBOT_TRELLO_TOKEN=435477809eb1a9ebc8c73632d39d528fab8a044ec788f055b23f663d9f68a144
-export HUBOT_TRELLO_BOARD=https://trello.com/b/GtuEpzR5/totom
 
 exec node_modules/.bin/hubot --name "ToBot" "$@"
