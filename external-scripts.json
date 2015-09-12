@@ -3,15 +3,8 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-business-cat",
-  "hubot-standup-alarm",
-  "hubot-plusplus",
-  "hubot-trello",
-  "hubot-jenkins",
-  "hubot-devopsreactions"
+  "hubot-shipit"
 ]
