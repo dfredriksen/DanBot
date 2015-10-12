@@ -2,3 +2,5 @@ node_modules
 .DS_Store*
 .hubot_history
 jarvis.sh
+scripts/production_deployment.sh
+scripts/staging_deployment.sh
