@@ -14,9 +14,9 @@ module.exports = (robot) ->
 
         @exec = require("child_process").exec
         @exec command, (error, stdout, stderr) ->
-          res.send error
-          res.send stdout
-          res.send stderr
+          res.reply error
+          res.reply stdout
+          res.reply stderr
       else
         res.reply "You do not have permission to deploy to that environment"
 
@@ -27,9 +27,9 @@ module.exports = (robot) ->
 
         @exec = require("child_process").exec
         @exec command, (error,stdout,stderr) ->
-          res.send error
-          res.send stdout
-          res.send stderr
+          res.reply error
+          res.reply stdout
+          res.reply stderr
       else
         res.reply "You do not have permission to deploy to that environment"
 
